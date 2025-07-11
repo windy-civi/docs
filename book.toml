@@ -1,6 +1,6 @@
 [book]
 language = "en"
-src = "src"
+src = "docs"
 title = "windy-civi"
 
 [rust]
