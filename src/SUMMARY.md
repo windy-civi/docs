@@ -4,7 +4,7 @@
 
 # Current Effort
 
-- [2025 - Decentralize](./2025-Decentralize/README.md)
+- [2025 - Decentralize](./2025-Decentralize/readme.md)
     - [Bill Blockchain - Decentralize Government Updates](./2025-Decentralize/bill-blockchain.md)
     - [Bill Bot Designer ](./2025-Decentralize/bill-bot-designer.md)
 
