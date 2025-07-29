@@ -8,8 +8,8 @@ Our 2024 efforts taught us a few things:
 
 As such, our effort has become 2-fold
 
-- [Democratize Government Updates By Decentralizing It](./bill-blockchain.md)
-- [Put Gov Updates Where People Are: Their Social Media](./bill-bot-designer.md)
+- [Decentralize Government Data](./bill-blockchain.md)
+- [Gov News Bot Builder](./bill-bot-designer.md)
 
 ## Contributors
 
