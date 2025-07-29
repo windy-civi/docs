@@ -8,7 +8,6 @@
     - [Bill Blockchain - Decentralize Government Updates](./2025-Decentralize/bill-blockchain.md)
     - [Bill Bot Designer ](./2025-Decentralize/bill-bot-designer.md)
 
-
 # History
 
 - [2024 - Windy Civi](./2024-Windy-Civi/readme.md)

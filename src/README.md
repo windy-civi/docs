@@ -1,18 +1,17 @@
 ![Windiy Civi Logo](./logo.png)
 
-# [WindyCivi.com](https://windycivi.com)
+# Mission
 
-## Mission
+We are an open source, non profit [Chi Hack Night](https://chihacknight.org) [Breakout Group](https://github.com/chihacknight/breakout-groups/issues/219) focused on the question:
 
-We are an open source, non profit [Chi Hack Night](https://chihacknight.org) [Breakout Group](https://github.com/chihacknight/breakout-groups/issues/219) focused on the question "why don't we pay attention to our representatives between elections"?
+> Why don't we pay attention to our representatives between elections?
 
-## Current Products
+# Current Products
 
 - [WindyCivi.com](https://windycivi.com)
 - [Windy Civi iOS/Mac App](https://apps.apple.com/us/app/windy-civi/id6737817607)
 
-
-## Contribute
+# Contribute
 
 - [Code](https://github.com/windy-civi)
 - [Docs](https://docs.windycivi.com)
