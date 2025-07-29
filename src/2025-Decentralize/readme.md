@@ -14,6 +14,7 @@ As such, our effort has become 2-fold
 ## Contributors
 
 - [Austin McLaughlin](https://github.com/18indypeyton18)
+- Brandon
 - Daniel Cappy
 - Edwin Cuevas
 - [Jeff Leverenz](https://github.com/jleverenz)
