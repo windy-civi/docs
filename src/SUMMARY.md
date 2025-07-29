@@ -1,6 +1,6 @@
 # Introduction
 
-[Introduction](./README.md)
+[Introduction](./readme.md)
 
 # Current Effort
 
