@@ -16,7 +16,7 @@ As such, our effort has become 2-fold
 - [Austin McLaughlin](https://github.com/18indypeyton18)
 - Brandon
 - Daniel Cappy
-- Edwin Cuevas
+- [Edwin Cuevas](http://manband.one)
 - [Jeff Leverenz](https://github.com/jleverenz)
 - [Sartaj Chowdhury](https://github.com/sartaj)
 - [S.Murakami](https://github.com/Japapino) 
