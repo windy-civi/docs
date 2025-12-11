@@ -1,4 +1,4 @@
-![Windiy Civi Logo](./logo.png)
+![Govbot icon](https://manband.one/assets/govbot-logo-transparent.png)
 
 # Mission
 
@@ -6,7 +6,7 @@
 
 Legislative data is hard to parse, track, and organize. Activists, concerned citizens, and the curious may not have the time, resources, or expertise to build out duplicative tech stacks. Existing solutions may be limited by the willingness of organizations and companies to continue to run and host them - such as in the case of [Google's Civic Information API](https://developers.google.com/civic-information/), which was shut down earlier this year. What would a decentralized, open-source legislative data solution look like?
 
-The GovBot team's goal is to bridge this gap - building the framework for the building and use of federated, open-source, non-profit legislative data. Built as a [Chi Hack Night](https://chihacknight.org) [Breakout Group](https://github.com/chihacknight/breakout-groups/issues/219), the project includes an open-source, simplified, and expanded version of [OpenStates'](https://open.pluralpolicy.com/data/) data on state and federal legislation, as well as example applications. 
+The Govbot team's goal is to bridge this gap - building the framework for the building and use of federated, open-source, non-profit legislative data. Built as a [Chi Hack Night](https://chihacknight.org) [Breakout Group](https://github.com/chihacknight/breakout-groups/issues/219), the project includes an open-source, simplified, and expanded version of [OpenStates'](https://open.pluralpolicy.com/data/) data on state and federal legislation, as well as example applications. 
 
 # What We Offer
 
@@ -142,3 +142,5 @@ To help manage multiple pipelines or locales, look at our [pipeline manager docu
 You can stay updated by following our work at [Chi Hack Night](chihacknight.org), as well as on the related Slack (see below). You can also follow our commits and updates on [Github](https://github.com/windy-civi) and this [Docs page](https://docs.windycivi.com),
 
 You can message us on the [Chi Hack Night Slack](https://chihacknight.slack.com/archives/C047500M5RS) - we have our own channel.
+
+![Govbot icon](https://manband.one/assets/govbot-icon-transparent.png)
