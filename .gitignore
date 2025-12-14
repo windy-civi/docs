@@ -19,3 +19,4 @@ book/
 # Env files
 .env
 .env.*
+src/SUMMARY.pdf
