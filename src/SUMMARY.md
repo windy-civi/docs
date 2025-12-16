@@ -5,8 +5,13 @@
 # Current Effort
 
 - [2025 - Decentralize](./2025-Decentralize/readme.md)
+  - [2025 Deck – Democratic Infrastructure](./2025_deck.md)
+  - [Bill Blockchain - Decentralize Government Updates](./2025-Decentralize/bill-blockchain.md)
+  - [Bill Bot Designer ](./2025-Decentralize/bill-bot-designer.md)
+
+<!-- - [2025 - Decentralize](./2025-Decentralize/readme.md)
     - [Bill Blockchain - Decentralize Government Updates](./2025-Decentralize/bill-blockchain.md)
-    - [Bill Bot Designer ](./2025-Decentralize/bill-bot-designer.md)
+    - [Bill Bot Designer ](./2025-Decentralize/bill-bot-designer.md) -->
 
 # History
 
